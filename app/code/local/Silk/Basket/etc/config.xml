@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <modules>
+        <Silk_Basket>
+            <version>0.0.1</version>
+        </Silk_Basket>
+    </modules>
+    <global>
+        <models>
+            <silk_basket>
+                <class>Silk_Basket_Model</class>
+            </silk_basket>
+        </models>
+        <blocks>
+            <silk_basket>
+                <class>Silk_Basket_Block</class>
+            </silk_basket>
+        </blocks>
+    </global>
+</config>
